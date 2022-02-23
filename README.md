@@ -9,9 +9,16 @@ Toggle drift mode FiveM
 - <a href="https://www.youtube.com/user/mtacstolk/videos">StolK88 | YouTube</a>
 - <a href="https://stolk.tebex.io/category/qb-scripts-by-stolk">StolK88 | Tebex</a>
 
-### README!!
-
-
+## README!!
+Add lines below to you're qb-radialmenu/config.lua
+{
+  id = 'driftmode',
+  title = 'Drift mode',
+  icon = 'car-side',
+  type = 'client',
+  event = 'qbdriftmode:DriftMode',
+  shouldClose = true
+},
 
 
 # Disclaimer
