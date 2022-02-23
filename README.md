@@ -1,11 +1,11 @@
 # qb-driftmode
-Toggle drift mode FiveM
+Toggle drift mode on qb-core FiveM
 
 ## Build for qb-core (resmon: 0.00ms)
 - <a href="https://github.com/qbcore-framework">qb-core | GitHub</a>
 - <a href="https://discord.gg/qbcore">qb-core | Discord</a>
 
-### More stuff
+### More stuff from me 💜
 - <a href="https://www.youtube.com/user/mtacstolk/videos">StolK88 | YouTube</a>
 - <a href="https://stolk.tebex.io/category/qb-scripts-by-stolk">StolK88 | Tebex</a>
 
@@ -49,9 +49,6 @@ It should look something like:
                 shouldClose = true
             },
 ```
-
-
-
 
 # Disclaimer
 Use at your own risk
