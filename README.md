@@ -24,7 +24,7 @@ Toggle drift mode FiveM
 
 It should look something like:
 ```
-}, {
+                    }, {
                         id = 'extra12',
                         title = 'Extra 12',
                         icon = 'box-open',
