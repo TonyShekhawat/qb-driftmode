@@ -12,7 +12,7 @@ local handleMods = {
 	{"fLowSpeedTractionLossMult", -.57}
 }
 
-RegisterNetEvent('HooiDrift:DriftModus', function()
+RegisterNetEvent('qbdriftmode:DriftMode', function()
 	ped = PlayerPedId()
 	local vehicle = GetVehiclePedIsUsing(ped)
 	if GetVehicleHandlingFloat(vehicle, "CHandlingData", "fInitialDragCoeff") < 90 then
