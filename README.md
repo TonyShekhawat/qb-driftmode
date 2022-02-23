@@ -1,6 +1,6 @@
 # qb-driftmode
-Toggle drift mode FiveM
-0.00ms resmon
+-Toggle drift mode FiveM
+-0.00ms resmon
 
 ### Build for qb-core
 - <a href="https://github.com/qbcore-framework">qb-core | Discord</a>
