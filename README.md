@@ -12,7 +12,7 @@ Toggle drift mode FiveM
 ## README!!
 1. Add the lines below to you're qb-radialmenu/config.lua
 
-{
+####{
   id = 'driftmode',
   title = 'Drift mode',
   icon = 'car-side',
