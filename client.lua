@@ -39,9 +39,9 @@ RegisterNetEvent('HooiDrift:DriftModus', function()
 				SetVehicleHandlingFloat(vehicle, "CHandlingData", value[1], GetVehicleHandlingFloat(vehicle, "CHandlingData", value[1]) + value[2] * modifier)
 			end
 			if driftMode then
-				QBCore.Functions.Notify("Drift modus | UIT")
+				QBCore.Functions.Notify("Drift mode | Off")
 			else
-				QBCore.Functions.Notify("Drift modus | AAN!")
+				QBCore.Functions.Notify("Drift mode | ON!")
 			end
 		end
 		if GetVehicleHandlingFloat(vehicle, "CHandlingData", "fInitialDragCoeff") < 90 then
