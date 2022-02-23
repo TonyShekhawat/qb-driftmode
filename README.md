@@ -22,6 +22,37 @@ Toggle drift mode FiveM
 },
 ```
 
+It should look something like:
+```
+}, {
+                        id = 'extra12',
+                        title = 'Extra 12',
+                        icon = 'box-open',
+                        type = 'client',
+                        event = 'qb-radialmenu:client:setExtra',
+                        shouldClose = false
+                    }, {
+                        id = 'extra13',
+                        title = 'Extra 13',
+                        icon = 'box-open',
+                        type = 'client',
+                        event = 'qb-radialmenu:client:setExtra',
+                        shouldClose = false
+                    }
+                }
+            }, {
+                id = 'driftmodus',
+                title = 'Drift modus',
+                icon = 'car-side',
+                type = 'client',
+                event = 'HooiDrift:DriftModus',
+                shouldClose = true
+            },
+```
+
+
+
+
 # Disclaimer
 Use at your own risk
 
