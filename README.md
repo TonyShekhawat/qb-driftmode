@@ -45,7 +45,7 @@ It should look something like:
                 title = 'Drift modus',
                 icon = 'car-side',
                 type = 'client',
-                event = 'HooiDrift:DriftModus',
+                event = 'qbdriftmode:DriftMode',
                 shouldClose = true
             },
 ```
