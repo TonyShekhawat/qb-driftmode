@@ -10,7 +10,8 @@ Toggle drift mode FiveM
 - <a href="https://stolk.tebex.io/category/qb-scripts-by-stolk">StolK88 | Tebex</a>
 
 ## README!!
-Add lines below to you're qb-radialmenu/config.lua
+1. Add the lines below to you're qb-radialmenu/config.lua
+#
 {
   id = 'driftmode',
   title = 'Drift mode',
